@@ -1,0 +1,23 @@
+CESR（WCESR）：基于相关熵计算权值
+
+SimilarityMatrix：计算相似度
+
+HPOG：提取图片特征
+
+f_testing：获得测试集特征
+
+f_training: 获得训练集特征
+
+GetC：基于CESR获得重构的权值
+
+demo_new：主函数，各部分功能用函数实现，核参数指定
+
+demo_sa_new：使用模拟退火核参数寻优的主函数
+
+sigma_step：步长衰减
+
+sigma_exp：指数衰减
+
+
+
+
